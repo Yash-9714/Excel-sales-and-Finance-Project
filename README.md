@@ -10,7 +10,7 @@ Datasets: Official sales data from 2019 to 2021 for AtliQ Hardware provided the 
 
 Generated reports: 
 
-1.customet net sales report 
+1.customet net sales report Customer Performance Report.pdf
 
 2.Market performance vs target
 
