@@ -10,21 +10,20 @@ Datasets: Official sales data from 2019 to 2021 for AtliQ Hardware provided the 
 
 Generated reports: 
 
-1.customet net sales report Customer Performance Report.pdf
+1.customet net sales report :Tells about the net sales of customers from 2019 to 2021 and also 2020 vs 2021
+2.Market performance vs target: Tells about the makret details from 2019 to 2021 also percentage growth
 
-2.Market performance vs target
+3. Top 10 products : Tells about the top 10 products in the atliq hardwares by comparing 2020 vs 2021
 
-3. Top 10 products 
+4.Division level report : Tells about dision level depending on region and customers
 
-4.Division level report 
+5.Top5 and Bottom5 products: Tells abput top and bottom 5 products in Atliq Hardwares depending on region, divsion and customers.
 
-5.Top5 and Bottom5 products
+6. new products 2021 : Tells about what are all the new products launched in 2021 at Atliq Hardwares
 
-6. new products 2021 
+7. P & L By Fiscal Years : Tells about Top 5 counties have more sales on 2021
 
-7. P & L By Fiscal Years 
-
-8.P and L for Markets
+8.P and L for Markets: Tells about profits and loss in the market depending on fasical years of Atliq Hardware as Fisical year start from sep.
 
 
 
